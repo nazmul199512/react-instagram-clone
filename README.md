@@ -1,4 +1,4 @@
-# Instagram like application using react and firebase
+# Instagram clone using react and firebase
 
 
 ###  [LIVE](https://instagram-clone-e8ec6.web.app/)
